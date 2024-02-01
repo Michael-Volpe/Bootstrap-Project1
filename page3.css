@@ -1,0 +1,30 @@
+.SchoolChairs {
+width: 100%;
+border: double;
+border-width: 6px;
+}
+
+.SchoolLockers {
+width: 100%;
+border: double;
+border-width: 6px;
+}
+
+.SchoolClassroom {
+width: 100%;
+height: 100%;
+border: double;
+border-width: 6px;
+}
+
+.Text {
+font: 100;
+text-align: center;
+border: solid;
+border-radius: 50px;
+padding: 10px;
+}
+
+.Offcanvas {
+text-align: center;
+}
